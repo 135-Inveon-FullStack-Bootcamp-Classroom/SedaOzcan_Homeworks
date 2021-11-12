@@ -1,4 +1,7 @@
 CAPS TEXT'LERİNİ GİRDİKTEN SONRA İSTEDİĞİNİZ CAPS RESMİNİ SEÇİP SONRASINDA CONSOLE AÇIP OLUŞTURULAN CAPS'İN URLSİNE ULAŞABİLİRSİNİZ :)
+![Ekran Görüntüsü (28)](https://user-images.githubusercontent.com/66177037/141465026-2877889c-cd1c-46a9-93ab-f6537a77fb20.png)
+![Ekran Görüntüsü (29)](https://user-images.githubusercontent.com/66177037/141465072-1d332734-7adb-4a57-b18b-e809e722712b.png)
+
 
 
 # Getting Started with Create React App
